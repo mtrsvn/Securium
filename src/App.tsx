@@ -1,8 +1,8 @@
-import React from 'react';
-import Popup from './components/Popup';
+import React from "react";
+import Popup from "./components/Popup";
 
 const App: React.FC = () => (
-  <div>
+  <div className="font-sans">
     <Popup />
   </div>
 );
